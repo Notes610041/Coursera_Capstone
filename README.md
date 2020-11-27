@@ -2,7 +2,7 @@
 
 ## Segmenting and Clustering Toronto Neighborhoods
 
-Visualization of the neighbourhoods in boroughs that have the word Toronto.
+Visualization of the neighborhoods in boroughs that have the word Toronto.
 
 ![](images/segmenting-and-clustering-toronto-neighborhoods-1.png)
 
